@@ -84,11 +84,3 @@ BusBooking/
 ├── seat.png
 ```
 
----
-
-## Screenshots
-
-> Add screenshots of the main window, booking screen, and review form for better understanding.
-
----
-
